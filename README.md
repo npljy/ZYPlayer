@@ -1,6 +1,6 @@
 # kk player
 
-支持 Android 和iOS
+支持 Android 和 iOS
 
 ## 特色
 
