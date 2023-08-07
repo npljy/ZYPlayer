@@ -1,8 +1,6 @@
 # kk player
 
-目前仅支持 Android
-
-iOS：若提供合法有效证书和描述文件，可无偿提供打包（仅限于此）。
+支持 Android 和iOS
 
 ## 特色
 
@@ -20,4 +18,6 @@ iOS：若提供合法有效证书和描述文件，可无偿提供打包（仅�
 
 ## 体验
 
-[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
+安卓：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
+
+iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
