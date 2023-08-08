@@ -26,3 +26,7 @@ iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xd
 
 没有交流群。如有用户自建，可issue发出来。
 
+## 关于开源
+
+主要是自用，且写的很拉，很多代码涉及到服务器，没精力去整理代码，暂不开源
+
