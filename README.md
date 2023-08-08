@@ -16,9 +16,16 @@
 * 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
 * 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
+## 开发机型
+
+Android：Mi 11 Ultra
+
+iOS：iPhone 6s
+
+
 ## 体验
 
-安卓：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
+Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
 
 iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
