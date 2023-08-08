@@ -25,7 +25,7 @@ Android：Mi 11 Ultra
 iOS：iPhone 6s
 
 
-## 体验
+## 体验学习
 
 Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
 
