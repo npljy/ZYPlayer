@@ -16,7 +16,7 @@
 * 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
 * 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
 
-## 开发机型
+## 开发测试机型
 
 Android：Mi 11 Ultra
 
