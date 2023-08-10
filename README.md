@@ -1,6 +1,6 @@
 # kk player
 
-支持 Android 和 iOS ，基于uni-app开发
+支持 Android 和 iOS ，基于uni-app开发，H5播放器使用的是mui-player
 
 ## 特色
 
