@@ -1,4 +1,4 @@
-![image](https://github.com/npljy/ZYPlayer-APP/assets/34366878/f2d9c6e6-6c1a-43a3-b676-45c52e9d9f20)# kk player
+# kk player
 
 支持 Android 和 iOS ，基于uni-app开发
 
