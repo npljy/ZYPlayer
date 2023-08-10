@@ -34,6 +34,8 @@ iOS：iPhone 6s
 
 Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
 
+Google Play版本(略有差异): [https://play.google.com/store/apps/details?id=cn.xuehuayu.player](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
+
 iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
 ## 交流群
