@@ -40,7 +40,7 @@ iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xd
 
 ## 交流群
 
-没有交流群。如有用户自建，可issue发出来。
+没有交流群。
 
 
 ## 关于隐私
