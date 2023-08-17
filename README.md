@@ -38,6 +38,9 @@ Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5
 
 iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
+Chrome Extension：
+  * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
+  * 离线版：[https://www.123pan.com/s/7x5A-6zl8.html](https://www.123pan.com/s/7x5A-6zl8.html)
 ## 交流群
 
 没有交流群。
