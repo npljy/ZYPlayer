@@ -1,0 +1,130 @@
+[
+  {
+    "key": "feifanjson",
+    "name": "非凡",
+    "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+    "active": true,
+    "type": "json",
+    "top": 1
+  },
+  {
+    "key": "huya",
+    "name": "虎牙",
+    "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "id": "hongniu",
+    "name": "红牛",
+    "api": "https://www.hongniuzy2.com/api.php/provide/vod/from/hnm3u8/at/xml/",
+    "key": "hongniu",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "ikun",
+    "name": "爱坤",
+    "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/xml",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "xinlang",
+    "name": "新浪",
+    "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "guangsu",
+    "name": "光速",
+    "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "kuaiche",
+    "name": "快车",
+    "api": "https://caiji.kczyapi.com/api.php/provide/vod/from/kcm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "wolong",
+    "name": "卧龙",
+    "api": "https://collect.wolongzy.cc/api.php/provide/vod/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "jinying",
+    "name": "金鹰",
+    "api": "https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "liangzi",
+    "name": "量子",
+    "api": "https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "yule",
+    "name": "鱼乐",
+    "api": "https://api.ylzy.me/api.php/provide/vod/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "shandian",
+    "name": "闪电",
+    "api": "https://sdzyapi.com/api.php/provide/vod/from/sdm3u8/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "taopian",
+    "name": "淘片",
+    "api": "https://taopianapi.com/cjapi/mc10/vod/json/m3u8.html",
+    "active": true,
+    "type": "json"
+  },
+  {
+    "key": "wujin",
+    "name": "无尽",
+    "api": "https://api.wujinapi.cc/api.php/provide/vod/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "hanju",
+    "name": "韩剧",
+    "api": "http://www.hanjuzy.com/inc/api.php",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "77hanju",
+    "name": "77韩剧",
+    "api": "https://www.77hanju.com/api.php/provide/vod/at/xml/",
+    "active": true,
+    "type": "xml"
+  },
+  {
+    "key": "baofeng",
+    "name": "暴风",
+    "api": "https://bfzyapi.com/api.php/provide/vod/",
+    "active": true,
+    "type": "json"
+  },
+  {
+    "key": "kuaikanjson",
+    "name": "快看",
+    "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+    "active": true,
+    "type": "json"
+  }
+]
