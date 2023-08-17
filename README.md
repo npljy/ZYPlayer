@@ -32,11 +32,11 @@ iOS：iPhone 6s
 
 ## 体验学习
 
-Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
+* Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
 
-~~[Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 和正式版属于不同的互斥版本，略有差异，更新较慢~~
+~~* [Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 和正式版属于不同的互斥版本，略有差异，更新较慢~~
 
-iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
+* iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
 Chrome Extension：
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
