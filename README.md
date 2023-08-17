@@ -42,7 +42,6 @@ iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xd
 
 没有交流群。
 
-
 ## 关于隐私
 
 * 所有资源均来自互联网。
@@ -58,3 +57,8 @@ Android：默认有广告，来自腾讯广点通，正规渠道，可关闭。
 iOS：需自签，无广告
 
 **视频打开后出现的任何广告,包括但不限于：跑马灯，横幅，片头，片中，片尾，弹窗，下载、启动(快)应用 等都属于源站，与本应用无关！安全性不保证！不要相信!!!**
+
+
+## 内置源
+
+https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json
