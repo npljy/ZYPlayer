@@ -38,7 +38,7 @@ iOS：iPhone 6s
 
 * iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
-Chrome Extension：
+浏览器插件（ Chrome / Edge ）：
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
   * 离线版：[https://www.123pan.com/s/7x5A-6zl8.html](https://www.123pan.com/s/7x5A-6zl8.html)
 ## 交流群
