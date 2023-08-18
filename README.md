@@ -25,9 +25,9 @@
 
 ## 开发测试机型
 
-Android：Mi 11 Ultra
+* Android：Mi 11 Ultra
 
-iOS：iPhone 6s
+* iOS：iPhone 6s
 
 
 ## 体验学习
@@ -41,9 +41,7 @@ iOS：iPhone 6s
 浏览器插件（ Chrome / Edge ）：
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
   * 离线版：[https://www.123pan.com/s/7x5A-6zl8.html](https://www.123pan.com/s/7x5A-6zl8.html)
-## 交流群
 
-没有交流群。
 
 ## 关于隐私
 
