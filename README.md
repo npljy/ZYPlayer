@@ -42,6 +42,61 @@
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
   * 离线版：[https://www.123pan.com/s/7x5A-6zl8.html](https://www.123pan.com/s/7x5A-6zl8.html)
 
+## 青少年模式
+此模式下屏蔽部分内容。
+内置过滤词已尽可能过滤所有，但并不能保证完全过滤。可自添加过滤词。
+
+## 搜索方法
+并不是智能搜索，所以搜索的时候，尽量少字，不能有错字。
+比如搜索“西行纪第四季”，如果资源站的名字是“西行纪第4季”，那么就搜不到，所以尽量之搜索名字，比如搜索“西行纪”即可
+
+## 批量添加视频源JSON格式
+  
+  **不要什么都往里面导入，json格式必须符合，否则无效。不会的就一条一条导入吧。**
+
+  >部分视频源包含大量 违规违法 资源, 请用户自行甄别；请勿非法传播下载 违规违法 资源, 后果自负。
+
+```json
+  [
+    {
+      "name": "[必填]源站名称",
+      "api": "[必填]源站地址,MacCMS10格式的api",
+      "type":"接口类型，默认xml类型，可选：json",
+      "group": "写“18+”可用于青少年模式过滤,其他分类随意",
+      "needjx": "[选填]取值 true|false,是否始终使用解析,针对加密源、官源,如果源站有m3u8格式,则为false,源站如果有m3u8加速解析接口直接填写jiexiUrl即可",
+      "jiexiUrl": "[选填]解析接口地址,源站提供的解析接口,建议不填,除非不解析无法播放",
+      "download": "[选填]下载接口地址,MacCMS10格式的api,没多大意义了,大多数资源站已不提供下载"
+    },
+    {
+      "name": "源站1",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "type":"json",
+      "group": "18+"
+    },
+    {
+      "name": "源站2",
+      "api": "http://www.605zy.co/inc/api.php",
+      "needjx": true, // 取值 true|false，注意 无引号
+      "jiexiUrl": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "源站3",
+      "api": "https://www.rrzyw.cc/api.php/provide/vod/at/xml/"
+    }
+  ]
+```
+
+## 资源加载不出来、视频无法播放、无法全屏
+
+  1. 一般是资源网服务器不稳定，或者资源网屏蔽了IP，带宽具有地域性，不同地区限制不同，请尝试切换到其他视频源，
+
+  2. 某些源站的大分类（如：连续剧），并没有数据，遇到此问题，请切换到具体的分类（如：国产剧）即可
+
+  3. 视频播放页面和播放器本身都是全屏
+
+## 关于DNLA投屏
+
+DNLA投屏不稳定，故提供复制m3u8地址，可使用m3u8下载工具自行下载，后可使用本地播放方式进行投屏。
 
 ## 关于隐私
 
