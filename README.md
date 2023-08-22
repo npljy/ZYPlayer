@@ -120,3 +120,7 @@ iOS：需自签，无广告
 ## 内置源
 
 https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json
+
+## 服务器
+
+小容量服务器，因之前出现很多僵尸数据，为节省开支，对用到服务器的相关功能进行了限制。但这些功能，不影响使用，甚至完全可以不用。
