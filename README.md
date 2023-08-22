@@ -25,7 +25,7 @@
 
 ## 开发测试机型
 
-* Android：Mi 11 Ultra
+* Android：Huawei Hornor 8
 
 * iOS：iPhone 6s
 
