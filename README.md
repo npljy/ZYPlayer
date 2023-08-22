@@ -3,6 +3,8 @@
 支持 Android 和 iOS ，播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 <details>
  <summary>本项目起始时间2021年1月4日</summary>
+ 总提交数2479次（截止2023-08-22）
+ <img alt="总提交数_截止2023-08-22.png" src="https://github.com/npljy/ZYPlayer-APP/blob/main/%E6%80%BB%E6%8F%90%E4%BA%A4%E6%95%B0_%E6%88%AA%E6%AD%A22023-08-22.png?raw=true" width="800">
  <img alt="起始时间.png" src="https://github.com/npljy/ZYPlayer-APP/blob/main/%E9%A1%B9%E7%9B%AE%E8%B5%B7%E5%A7%8B%E6%97%B6%E9%97%B4.png?raw=true" width="800">
 </details>
 ## 特色
