@@ -25,7 +25,7 @@
 
 ## 开发测试机型
 
-* Android：Huawei Hornor 8
+* Android：Huawei Honor 8
 
 * iOS：iPhone 6s
 
