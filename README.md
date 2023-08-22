@@ -1,6 +1,6 @@
 # kk player
 
-支持 Android 和 iOS ，播放器[mui-player](https://github.com/muiplayer/hello-muiplayer)  
+支持 Android 和 iOS ，播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 <details>
  <summary>本项目起始时间2021年1月4日</summary>
  <img alt="起始时间.png" src="https://github.com/npljy/ZYPlayer-APP/blob/main/%E9%A1%B9%E7%9B%AE%E8%B5%B7%E5%A7%8B%E6%97%B6%E9%97%B4.png?raw=true" width="800">
