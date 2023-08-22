@@ -1,6 +1,6 @@
 # kk player
 
-支持 Android 和 iOS ，播放器[mui-player](https://github.com/muiplayer/hello-muiplayer)  `本项目起始时间2021年1月20日`
+支持 Android 和 iOS ，播放器[mui-player](https://github.com/muiplayer/hello-muiplayer)  `本项目起始时间2021年1月4日`
 
 ## 特色
 
