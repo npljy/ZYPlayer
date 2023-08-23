@@ -125,13 +125,3 @@ iOS：需自签，无广告
 ## 内置源
 
 https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json
-
-## 服务器
-
-小容量服务器,因之前出现很多僵尸数据,为节省开支,对用到服务器的相关功能进行了限制,但这些功能,完全不影响使用,甚至完全可以不用.
-
-## 请小弟喝可乐 🤝
-
-* 如果您使用了本软件，请在软件中赞助
-
-* 如果未使用本软件，[可随缘打赏](https://afdian.net/order/create?user_id=1f326f88329e11eeb16752540025c377)
