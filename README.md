@@ -121,4 +121,4 @@ iOS：需自签，无广告
 https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json
 
 ## 机场
-[[https://](https://xn--7kq24s4ynvb.site/)](https://xn--7kq24s4ynvb.site/#/register?code=E0H16gjX)
+[https://亏本机场.site/](https://xn--7kq24s4ynvb.site/#/register?code=E0H16gjX)
