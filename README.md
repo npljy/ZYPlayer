@@ -119,5 +119,5 @@ DNLA投屏不稳定，故提供复制m3u8地址，可使用m3u8下载工具自�
 
 [https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json](https://raw.githubusercontent.com/npljy/ZYPlayer-APP/main/resource.json)
 
-## 机场
+## 机✈️场
 [https://亏本机场.site/](https://xn--7kq24s4ynvb.site/#/register?code=E0H16gjX)
