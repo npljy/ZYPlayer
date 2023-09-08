@@ -34,7 +34,7 @@
 
 * Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-IJb8.html)
 
-* ~~不推荐 [Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 和正式版属于不同的互斥版本，略有差异，更新较慢~~
+* ~~不推荐 [Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 受谷歌政策影响，功能阉割，和正式版属于不同的互斥版本，不怎么更新~~
 
 * iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-xdl8.html)
 
