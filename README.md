@@ -2,6 +2,8 @@
 
 支持 Android 和 iOS ，播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 
+## [使用说明](https://github.com/npljy/ZYPlayer-APP/blob/main/help.md)
+
 ## 特色
 
 * 支持MAC CMS资源站（xml，json）
