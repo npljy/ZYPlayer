@@ -30,6 +30,7 @@
 * Android：Huawei Honor 8
 * iOS：iPhone 6s
 
+### iOS使用的是测试证书，无Push(推送通知)权限，如有需求，可提供证书无偿打包
 
 ## 体验学习
 
