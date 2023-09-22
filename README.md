@@ -1,4 +1,4 @@
-# kk player
+# kk player，KKPlayer
 
 支持 Android 和 iOS ，播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 
