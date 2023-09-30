@@ -32,15 +32,15 @@
 
 ## 体验学习
 
-* Android：[https://www.123pan.com/s/7x5A-IJb8.html](https://www.123pan.com/s/7x5A-faZ8)
+* Android：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
 
 * ~~不推荐 [Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 受谷歌政策影响，功能阉割，和正式版属于不同的互斥版本，不怎么更新~~
 
-* iOS：[https://www.123pan.com/s/7x5A-xdl8.html](https://www.123pan.com/s/7x5A-faZ8)
+* iOS：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
 
 浏览器插件（ Chrome / Edge ）：
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
-  * 离线版：[https://www.123pan.com/s/7x5A-6zl8.html](https://www.123pan.com/s/7x5A-faZ8)
+  * 离线版：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
 
 ## 青少年模式
 此模式下屏蔽部分内容。
