@@ -22,7 +22,6 @@
 * 请大家支持正版. 所有资源来自互联网, 本软件不参与任何制作, 上传, 储存等内容, 禁止传播违法资源.
 * 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
 * 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
-* ~核心就是接口实现，这部分没啥好开源的，参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)即可，且此项目为练手产品能用就行，忙于搬砖没时间整理优化，部分代码涉及后端服务器~
 
 ## 开发测试机型
 
@@ -121,6 +120,11 @@ DNLA投屏不稳定，故提供复制m3u8地址，可使用m3u8下载工具自�
 ## 内置源（更新不及时，以APP为准）
 
 [https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json](https://raw.githubusercontent.com/npljy/ZYPlayer-APP/main/resource.json)
+
+
+## 关于开源
+
+~核心就是接口实现，这部分没啥好开源的，参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)即可，且此项目为前期练手产品，现在忙于搬砖没时间整理优化，部分代码涉及后端服务器~
 
 ## 机✈️场
  app及扩展配置文件使用jsdelivr缓存，可能需要用到    
