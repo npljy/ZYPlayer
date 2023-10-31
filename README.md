@@ -122,12 +122,6 @@ DNLA投屏不稳定，故提供复制m3u8地址，可使用m3u8下载工具自�
 [https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json](https://raw.githubusercontent.com/npljy/ZYPlayer-APP/main/resource.json)
 
 
-## ~关于开源~
-
-1. ~核心就是接口实现，这部分没啥好开源的，参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)即可~
-2. ~此项目为前期练手产品，主要考虑功能实现了，没有好好规划代码，写的很烂，好多我自己都看不懂了，且部分代码涉及后端服务器，忙于搬砖没时间整理优化代码~
-3. ~备份服务器不管用的人多不多，它每天都要付费的，有那么一丢丢的支出的。app广告每天还是有那么点收入的，开源后就没有收入了~
-
 ## 机✈️场
  app及扩展配置文件使用jsdelivr缓存，可能需要用到    
 [https://亏本机场.site/](https://xn--7kq24s4ynvb.site/#/register?code=E0H16gjX)
