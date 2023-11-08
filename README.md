@@ -31,17 +31,8 @@
 
 #### iOS使用的是测试证书，无Push(推送通知)权限，无法收到视频更新通知。如有需求，可提供证书和描述文件，提供打包
 
-## 体验学习
-
-* Android：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
-
-* ~~不推荐 [Google Play版本](https://play.google.com/store/apps/details?id=cn.xuehuayu.player): 受谷歌政策影响，功能阉割，和正式版属于不同的互斥版本，不怎么更新~~
-
-* iOS：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
-
 浏览器插件（ Chrome / Edge ）：
   * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
-  * 离线版：[https://www.123pan.com/s/7x5A-faZ8](https://www.123pan.com/s/7x5A-faZ8)
 
 ## 青少年模式
 此模式下屏蔽部分内容。
