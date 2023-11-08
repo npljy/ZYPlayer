@@ -110,12 +110,3 @@ DNLA投屏不稳定，故提供复制m3u8地址，可使用m3u8下载工具自�
 **现在的广告诡的很，点点没什么，但是填写个人信息等场景，千万谨慎，遇到支付的情况，不要支付！**  
 **视频打开时(加载时以及加载完成后)出现的任何广告,包括但不限于：跑马灯，横幅，片头，片中，片尾，弹窗，下载、启动(快)应用 等都属于源站，与本应用无关！安全性不保证！不要相信!!!**
 
-## 内置源（更新不及时，以APP为准）
-
-[https://github.com/npljy/ZYPlayer-APP/blob/main/resource.json](https://raw.githubusercontent.com/npljy/ZYPlayer-APP/main/resource.json)
-
-<!--
-## 机✈️场
- app及扩展配置文件使用jsdelivr缓存，可能需要用到    
-[https://亏本机场.site/](https://knjc.cfd/#/register?code=E0H16gjX)
--->
