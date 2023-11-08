@@ -31,8 +31,9 @@
 
 #### iOS使用的是测试证书，无Push(推送通知)权限，无法收到视频更新通知。如有需求，可提供证书和描述文件，提供打包
 
-浏览器插件（ Chrome / Edge ）：
-  * Chrome应用商店：[https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac](https://chrome.google.com/webstore/detail/pegiockicjmdnkjbnppeeakeogdkegac)
+## 学习体验
+
+[点击体验](https://www.123pan.com/s/7x5A-faZ8.html)
 
 ## 青少年模式
 此模式下屏蔽部分内容。
