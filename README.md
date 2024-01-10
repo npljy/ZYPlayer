@@ -33,7 +33,7 @@
 
 ## 学习体验
 
-[点击体验](https://www.123pan.com/s/7x5A-faZ8.html)
+[点击体验](https://github.com/npljy/ZYPlayer-APP/releases)
 
 ## 青少年模式
 此模式下屏蔽部分内容。
