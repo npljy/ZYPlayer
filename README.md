@@ -1,4 +1,6 @@
-# kk player
+# 此仓库项目不再更新维护
+
+## kk player
 
 MacCMS 资源播放器, 支持 Android 和 iOS ，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 
