@@ -5,11 +5,6 @@
 MacCMS 资源播放器, 支持 Android 和 iOS ，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 
 ## 学习研究
-  
- 👉 [Android](https://github.com/npljy/ZYPlayer-APP/releases/download/v1.0.0/v1.0.0.apk)  
- 👉 [iOS](https://github.com/npljy/ZYPlayer-APP/releases/download/v1.0.0/v1.0.0.ipa)  
- 👉 [谷歌Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)  
- 👉 [所有版本](https://github.com/npljy/ZYPlayer-APP/releases)  
 
 ## 特色
 
