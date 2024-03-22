@@ -6,6 +6,8 @@ MacCMS 资源播放器, 支持 Android 和 iOS ，内置播放器 [mui-player](h
 
 ## 学习研究
 
+👉 [谷歌Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
+
 ## 特色
 
 * 无登录，直接看
