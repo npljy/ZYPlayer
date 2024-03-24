@@ -11,7 +11,7 @@ CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播
 ## 特色
 
 * 无登录，直接看
-* 支持MAC CMS资源站，自动识别（xml，json）
+* 支持CMS资源站，自动识别（xml，json）
 * alist网盘，建议mp4格式
 * 漫画阅读，来自网络
 * 视频源添加，批量添加，导出
