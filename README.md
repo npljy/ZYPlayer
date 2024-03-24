@@ -27,12 +27,15 @@ CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播
 * ~短视频(下线，刷抖音快手去吧)~
 * 三方工具：视频解析，音乐下载，热搜排行，历史价格
 
+## 感谢
+
+* 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
+* 网盘功能参考[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
+
 ## 声明
 
 * 请大家支持正版. 所有资源来自互联网, 本软件不参与任何制作, 上传, 储存等内容, 禁止传播违法资源.
 * 该软件仅供学习交流使用，禁止个人用于非法商业用途, 请于安装后 24 小时内删除.
-* 资源站接口参考[ZY-Player](https://github.com/Hunlongyu/ZY-Player)
-* 网盘功能参考[ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer)
 
 ## 关于隐私
 
