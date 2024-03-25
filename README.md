@@ -6,7 +6,7 @@ CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播
 
 ## 学习研究
 
-👉 [网盘](https://www.123pan.com/s/7x5A-wic8.html)  
+👉 [所有版本](https://www.123pan.com/s/7x5A-wic8.html)  
 👉 [谷歌Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
 
 ## 特色
