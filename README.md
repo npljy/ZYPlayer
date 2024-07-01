@@ -1,5 +1,5 @@
 # 本仓库不再维护更新。
-## 可关闭任何权限，不手机任何隐私！
+## 可关闭任何权限，不收集任何隐私，没有任何统计（具体请看下面“关于隐私”部分）！
 
 ## kk player
 
@@ -10,7 +10,7 @@ CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播
 👉 [谷歌Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)  
 
 ## 特色
-* 可关闭任何权限，不手机任何隐私
+* 可关闭任何权限，不收集任何隐私，没有任何统计
 * 无登录，直接看
 * 支持CMS资源站，自动识别（xml，json）
 * alist网盘，建议mp4格式
