@@ -5,10 +5,6 @@
 
 CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
 
-## 学习研究
-
-👉 [谷歌Play商店](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)  
-
 ## 特色
 * 可关闭任何权限，不收集任何隐私，没有任何统计
 * 无登录，直接看
