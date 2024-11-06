@@ -3,7 +3,8 @@
 
 ## kk player
 
-CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
+CMS 视频资源播放器, 兼容 zyplayer，支持 Android，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
+iOS 已停止维护，请使用其他优秀的软件。
 
 ## 感谢
 
@@ -42,7 +43,7 @@ CMS 视频资源播放器, 兼容 zyplayer，支持 Android 和 iOS ，内置播
 * 部分视频播放页面(如：网页播放，一般非m3u8的就是)是资源站的，`不可控`。可能有统计代码或广告代码等。
 * 本APP开发过程中没有添加任何统计工具和代码(没有打包相关SDK)，开发者不会知道使用者的任何操作。但uni平台，三方的SDK(如:广告)、工具(如:播放器)等有无统计和追踪,开发者并不清楚，不做保证。
 
-## iOS版本说明
+## iOS版本说明[iOS 已停止维护，请使用其他优秀的软件]
 
 iOS版本因使用测试证书，需自签才能使用。视频更新时没有Push通知，目前通知方式为app内部吐司通知。
 
