@@ -1,6 +1,8 @@
 # 本仓库不再维护更新。
 ## 可关闭任何权限，不收集任何隐私，没有任何统计（具体请看下面“关于隐私”部分）！
 
+[旧版本在release](https://github.com/npljy/KKPlayer-APP/releases)
+
 ## kk player
 
 CMS 视频资源播放器, 兼容 zyplayer，支持 Android，内置播放器 [mui-player](https://github.com/muiplayer/hello-muiplayer)  
